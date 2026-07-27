@@ -1,0 +1,495 @@
+Sex,Age,Education_level,Current_Employment,Civil_status,Nationality,Region,VR4,VR16,VR17,VR19,LN7,LN33,LN34,LN58,MR45,MR46,MR47,MR55,R3D3,R3D4,R3D6,R3D8,ICAR,CRT1,CRT2,CRT3,CRT4,CRT5,CRT6,CRT
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,4,0,1,0,1,1,0,3
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,1,1,0,0,0,0,1,1,0,1,0,1,1,8,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,0,0,1,1,1,1,1,0,0,0,0,0,9,1,0,0,1,0,1,3
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+F,22,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,0,0,1,0,1,1,0,0,0,0,0,0,6,0,0,0,1,0,0,1
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,6,0,0,0,1,0,0,1
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+F,19,Diploma,Impiegato/a,Celibe/nubile,Italiana,Calabria,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,5,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Coniugato/a,Italiana,Calabria,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0
+F,25,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,1,0,0,1,0,1,1,1,0,0,0,0,1,7,0,0,0,1,0,0,1
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,0,0,0,1,0,1,0,0,0,0,1,0,6,0,1,0,1,1,0,3
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,0,0,1,1,0,1,1,1,1,1,0,12,1,1,1,1,1,1,6
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,0,1,1,0,0,1,0,0,0,0,0,8,0,0,0,0,0,0,0
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,5,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,6,0,1,1,1,1,1,5
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,13,0,1,0,1,0,0,2
+F,23,Diploma,Studente,Convivente,Italiana,Calabria,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,1,0,0,0,1,1,1,0,0,0,0,1,0,7,0,0,0,1,0,0,1
+F,22,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0,6,0,0,0,0,0,0,0
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,0,0,0,0,1,0,1,0,0,0,1,0,6,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,1,2
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,7,0,1,1,1,1,1,5
+F,18,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Convivente,Italiana,Calabria,0,1,0,1,0,0,1,0,1,1,1,0,0,0,0,0,6,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,4,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,3,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,1,1,0,0,0,1,1,1,1,0,0,1,0,8,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,4,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,3,1,0,1,1,1,1,5
+F,22,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,5,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,0,5,0,1,0,1,1,0,3
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,2
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,1,0,1,1,1,1,0,0,0,0,5,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Rumena,Calabria,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,1,1,1,0,1,0,1,0,0,0,1,0,9,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,13,1,1,1,1,1,1,6
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,4,0,1,1,1,0,0,3
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,4,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Coniugato/a,Italiana,Calabria,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,0,12,0,1,1,1,1,0,4
+F,19,Diploma,Studente,Convivente,Italiana,Calabria,1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0,5,0,0,0,1,0,0,1
+F,34,Diploma,Studente,Separato/a,Italiana,Calabria,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,2,0,0,0,1,0,0,1
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,5,0,0,0,1,0,0,1
+M,20,Diploma,Studente,Convivente,Italiana,Calabria,1,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,1,0,0,1,1,0,1,0,1,0,0,0,0,7,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,0,11,1,0,1,1,0,0,3
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,4,1,1,0,1,0,0,3
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,6,0,0,0,1,0,0,1
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,3,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,5,1,0,0,1,0,0,2
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,1,1,1,1,1,0,1,0,1,0,0,0,0,8,1,1,0,1,1,1,5
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,1,4,0,1,1,1,1,1,5
+F,24,Diploma,Studente,Convivente,Italiana,Calabria,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,11,0,0,1,1,0,0,2
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,1,0,1,1,1,0,0,1,0,0,5,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,1,1,1,0,0,1,0,1,1,1,0,0,0,9,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,0,1,1,0,1,1,1,0,0,0,0,10,0,0,0,0,0,0,0
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,1,0,0,0,1,0,1,1,0,0,0,0,7,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,1,0,0,0,1,1,1,0,0,0,0,0,7,1,1,1,0,1,1,5
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,4,1,1,1,0,1,0,4
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,1,0,0,1
+F,22,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,0,0,0,0,0,1,1,0,0,0,1,1,8,1,0,1,1,0,1,4
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,1,0,0,0,1,0,0,1,1,0,0,0,0,5,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,1,0,0,1,0,1,1,1,0,0,0,0,0,6,0,0,0,1,0,0,1
+F,22,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,11,1,1,1,1,1,1,6
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,0,1,0,0,0,1,0,1,0,0,1,0,0,5,0,0,0,0,0,0,0
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,0,1,1,0,0,0,0,0,0,1,1,9,1,1,1,1,0,1,5
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,0,0,1,1,0,0,0,1,1,1,0,0,0,6,0,0,0,1,0,1,2
+F,22,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+Intersex,19,Diploma,Studente,Convivente,Italiana,Calabria,0,0,1,0,0,1,0,0,1,0,1,1,0,0,0,0,5,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Rumena,Calabria,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,0,12,0,1,1,1,1,0,4
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,0,1,1,1,1,1,1,0,1,0,0,12,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Convivente,Italiana,Calabria,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,4,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,0,1,0,1,0,0,1,1,0,1,0,1,1,10,1,1,0,1,0,0,3
+F,26,Diploma,Studente,Coniugato/a,Italiana,Calabria,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,1,1,1,1,0,1,1,1,0,0,1,1,1,10,0,0,1,1,0,1,3
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,2,0,0,0,1,0,0,1
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,0,0,0,0,1,1,1,0,0,1,0,0,7,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,0,1,1,0,1,1,0,0,0,1,0,0,8,0,0,0,0,0,1,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,1,1,1,1,1,0,1,1,1,0,1,0,0,10,0,0,1,1,0,0,2
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,3,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Coniugato/a,Italiana,Calabria,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,4,0,0,0,1,0,0,1
+M,19,Diploma,Studente,Convivente,Italiana,Calabria,1,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,4,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,0,0,0,0,1,1,1,0,0,0,1,0,7,0,0,0,0,0,0,0
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,1,0,0,1,1,0,1,1,0,0,1,0,0,8,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Convivente,Italiana,Calabria,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,5,0,0,0,1,0,0,1
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,1,1,1,1,1,1,6
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,1,1,0,1,0,1,0,0,1,0,0,0,0,5,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,7,1,1,1,1,1,1,6
+F,25,Diploma,Studente,Convivente,Italiana,Calabria,0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,0,1,1,1,0,1,1,0,1,1,0,0,0,8,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Coniugato/a,Italiana,Calabria,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,2,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,4,0,0,0,1,0,1,2
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,5,0,0,0,1,0,0,1
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,5,0,0,1,1,0,0,2
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,1,1,0,0,0,1,1,1,0,0,0,1,1,9,0,1,1,1,1,0,4
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,4,0,0,0,0,0,0,0
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,1,0,0,0,0,1,0,1,0,0,1,0,0,5,0,1,0,1,0,1,3
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,1,0,1,0,1,1,1,1,1,1,0,0,11,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,1,0,1,0,0,1,0,1,0,1,0,0,0,7,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,1,0,0,0,0,0,1,0,1,1,0,0,0,5,1,0,1,1,0,0,3
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,0,1,0,0,1,0,1,0,0,0,0,0,6,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,4,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Convivente,Italiana,Calabria,1,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,7,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0
+F,33,Laurea di primo livello,Studente,Convivente,Italiana,Calabria,1,1,1,1,0,1,0,0,0,1,1,1,0,0,0,0,8,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,4,0,1,0,1,0,0,2
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,1,1,1,0,0,1,0,1,0,0,0,0,1,6,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,6,1,1,0,1,1,1,5
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,0,0,1,0,0,1,0,0,0,0,0,1,0,4,0,1,1,0,1,1,4
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,1,1,0,1,0,0,1,1,0,0,0,0,0,6,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,0,0,1,1,1,0,0,1,1,0,11,0,0,0,0,0,0,0
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,7,0,1,0,1,1,0,3
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,1,0,1,1,0,0,0,1,0,0,4,0,1,0,1,1,0,3
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,0,0,0,0,1,1,0,1,0,0,0,1,0,5,0,0,0,1,0,0,1
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,0,0,1,0,0,0,0,1,1,0,0,0,0,5,0,1,1,1,1,0,4
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,7,0,1,0,0,0,0,1
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Campania,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,5,0,1,0,1,1,0,3
+M,24,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,6,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,3,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,0,1,0,0,0,1,0,1,1,0,0,0,0,6,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,0,1,0,1,0,0,0,1,0,1,0,1,1,9,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Rumena,Calabria,0,0,0,1,0,0,0,0,1,0,0,0,1,1,1,0,5,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,1,0,0,1,0,0,1,1,0,0,0,0,0,5,0,0,0,1,0,0,1
+F,47,Diploma,Impiegato/a,Divorziato/a,Italiana,Calabria,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,4,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,0,0,0,0,1,1,1,1,0,0,0,0,0,6,0,1,1,1,1,1,5
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,1,4,0,1,0,1,0,0,2
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,0,0,0,1,0,0,1,1,1,11,0,0,1,1,0,0,2
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,1,1,1,1,0,0,0,0,0,0,0,1,0,6,0,0,0,1,0,0,1
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,1,1,1,1,5
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,1,0,0,1,0,1,0,1,0,1,1,0,9,0,0,0,1,0,0,1
+F,24,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,5,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,1,1,1,0,0,0,1,1,0,0,0,0,8,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,1,1,1,1,0,1,1,1,0,0,0,0,10,0,1,0,1,0,0,2
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,1,1,1,0,1,0,1,1,1,0,0,0,10,1,0,0,0,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,0,1,0,0,0,1,1,1,0,1,0,1,9,0,1,0,1,0,0,2
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,1,0,0,0,0,1,1,0,0,0,0,0,3,0,0,0,1,0,0,1
+F,23,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,1,0,0,0,0,1,1,0,0,0,0,1,0,4,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,5,0,1,0,0,1,0,2
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,2
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,0,1,1,1,0,1,1,1,1,0,0,0,0,8,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,0,1,0,1,0,0,1,1,0,1,0,1,1,10,0,1,0,1,0,0,2
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,3,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,0,0,0,0,1,1,1,1,0,0,0,0,4,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Coniugato/a,Italiana,Calabria,0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,4,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,1,0,0,0,0,1,0,0,0,0,0,1,0,4,0,0,0,1,0,0,1
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+F,54,Diploma,Impiegato/a,Celibe/nubile,Italiana,Calabria,0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0,5,0,0,0,1,0,0,1
+F,19,Diploma,Studente,Coniugato/a,Italiana,Calabria,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,3,0,0,0,1,0,0,1
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,1,1,1,1,0,1,0,1,0,0,0,0,0,7,1,1,1,1,1,0,5
+F,24,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0,11,0,1,1,1,0,1,4
+M,28,Laurea specialistica/magistrale,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,0,1,1,0,0,1,0,1,0,0,1,0,9,1,1,0,1,1,0,4
+F,30,Laurea specialistica/magistrale,Impiegato/a,Celibe/nubile,Italiana,Calabria,0,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,7,0,1,0,1,1,0,3
+F,24,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,1,0,0,1,0,1,0,0,1,0,0,0,7,0,1,1,1,1,0,4
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,1,1,0,0,1,1,1,1,0,0,0,0,9,1,1,1,1,1,0,5
+F,26,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,0,0,1,1,0,1,1,1,0,0,0,0,9,0,1,1,1,1,0,4
+F,35,Dottorato/Specializzazioni post laurea,Studente,Coniugato/a,Italiana,Calabria,0,0,0,1,1,0,1,0,0,1,0,1,0,0,0,0,5,0,0,0,1,0,0,1
+F,23,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,0,12,0,1,1,1,1,0,4
+F,27,Laurea specialistica/magistrale,Impiegato/a,Celibe/nubile,Italiana,Calabria,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,0,9,0,1,1,1,1,0,4
+M,38,Dottorato/Specializzazioni post laurea,Impiegato/a,Celibe/nubile,Italiana,Calabria,1,0,1,1,0,0,0,0,1,1,1,0,0,0,1,0,7,0,0,0,1,0,0,1
+M,28,Laurea specialistica/magistrale,Studente,Celibe/nubile,Ucraina,Calabria,1,1,1,1,1,0,1,0,0,0,1,1,0,0,1,1,10,1,0,1,1,0,0,3
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1,1,13,1,1,1,1,1,1,6
+F,25,Laurea specialistica/magistrale,Disoccupato/a,Celibe/nubile,Italiana,Calabria,1,1,1,0,1,0,1,0,1,0,1,0,0,0,0,0,7,1,1,1,1,1,1,6
+F,32,Dottorato/Specializzazioni post laurea,Impiegato/a,Convivente,Italiana,Calabria,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,0,13,1,1,1,1,1,1,6
+F,28,Laurea di primo livello,Impiegato/a,Convivente,Italiana,Calabria,1,1,1,0,1,1,1,1,1,0,1,0,1,0,1,0,11,0,1,1,1,1,1,5
+M,52,Laurea specialistica/magistrale,Impiegato/a,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,0,1,0,0,0,1,1,0,1,0,0,9,1,1,0,1,1,0,4
+M,25,Laurea specialistica/magistrale,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,15,1,1,1,1,1,0,5
+F,32,Dottorato/Specializzazioni post laurea,Impiegato/a,Celibe/nubile,Italiana,Calabria,1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0,1,1,1,1,1,5
+M,27,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,1,0,1,0,0,1,1,1,0,0,0,0,0,7,0,1,0,0,1,0,2
+F,24,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,0,0,0,1,0,0,1,0,0,1,1,1,9,1,1,0,1,1,1,5
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,4,0,0,0,1,0,0,1
+F,22,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,1,1,0,0,1,1,1,0,0,0,0,1,9,1,1,0,1,1,0,4
+M,22,Diploma,Impiegato/a,Celibe/nubile,Italiana,Calabria,0,1,1,1,1,1,1,0,0,1,1,0,0,0,0,0,8,1,1,1,1,1,0,5
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,0,0,0,0,1,1,1,0,0,0,0,0,6,1,1,1,1,1,0,5
+M,26,Laurea specialistica/magistrale,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,0,1,1,1,1,0,0,0,0,0,0,0,7,1,1,0,1,1,1,5
+M,49,Dottorato/Specializzazioni post laurea,Impiegato/a,Divorziato/a,Italiana,Calabria,1,1,1,1,0,0,1,1,1,1,1,1,0,0,0,0,10,1,1,1,1,1,0,5
+M,30,Diploma,Operaio,Celibe/nubile,Italiana,Calabria,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,3,0,0,0,1,0,0,1
+F,29,Laurea specialistica/magistrale,Impiegato/a,Coniugato/a,Italiana,Calabria,0,1,1,1,1,1,0,0,1,1,1,1,0,0,1,0,10,0,0,0,0,0,0,0
+M,24,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,0,0,0,0,0,0,1,0,1,1,0,0,6,1,1,1,1,1,1,6
+F,27,Laurea specialistica/magistrale,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,0,0,0,0,1,1,1,1,0,0,0,0,7,0,0,1,1,0,0,2
+F,45,Laurea specialistica/magistrale,Impiegato/a,Divorziato/a,Italiana,Calabria,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,1,12,0,0,0,1,0,0,1
+F,25,Laurea specialistica/magistrale,Impiegato/a,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0,10,1,1,1,1,1,1,6
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,1,1,1,1,1,1,1,1,0,0,0,0,11,0,1,1,1,1,1,5
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+F,23,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,1,1,1,0,0,0,1,0,1,0,0,0,0,6,0,0,0,1,0,0,1
+M,22,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,5,1,0,1,1,0,1,4
+F,29,Laurea specialistica/magistrale,Studente,Convivente,Italiana,Toscana,0,1,1,1,1,0,1,0,1,1,1,1,0,0,0,0,9,1,1,1,1,0,0,4
+M,23,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,1,6
+F,46,Laurea specialistica/magistrale,Professionista,Coniugato/a,Italiana,Emilia-Romagna,1,1,1,0,1,1,1,1,0,1,0,0,0,1,0,0,9,0,0,0,1,0,0,1
+M,23,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,15,1,1,1,1,1,1,6
+F,24,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,0,0,1,0,1,0,1,0,0,0,1,0,8,1,0,1,1,1,1,5
+M,23,Laurea specialistica/magistrale,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,0,0,1,0,0,0,1,0,0,1,0,1,8,1,1,1,1,1,0,5
+F,29,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,10,1,0,0,1,0,1,3
+F,57,Diploma,Impiegato/a,Coniugato/a,Italiana,Calabria,1,0,1,0,0,1,1,1,0,0,1,0,1,1,1,0,9,0,0,0,1,0,0,1
+F,65,Diploma,Impiegato/a,Vedovo/a,Italiana,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+M,78,Diploma,Disoccupato/a,Coniugato/a,Italiana,Lazio,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,0,8,0,1,1,1,1,1,5
+F,28,Laurea specialistica/magistrale,Impiegato/a,Celibe/nubile,Italiana,Lazio,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,12,0,1,1,1,1,1,5
+M,65,Diploma,Impiegato/a,Coniugato/a,Italiana,Lazio,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,11,0,1,1,1,1,1,5
+F,59,Diploma,Professionista,Coniugato/a,Italiana,Lazio,0,1,1,0,0,0,0,0,0,0,0,1,0,0,1,0,4,0,0,0,1,0,0,1
+M,63,Diploma,Impiegato/a,Coniugato/a,Italiana,Lazio,1,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,7,0,1,0,1,1,0,3
+F,67,Diploma,Disoccupato/a,Coniugato/a,Italiana,Lazio,1,0,0,1,1,1,1,1,0,1,0,1,0,0,0,0,8,0,0,1,1,0,0,2
+F,57,Diploma,Impiegato/a,Coniugato/a,Italiana,Lazio,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,5,0,1,0,1,1,0,3
+F,59,Diploma,Impiegato/a,Coniugato/a,Italiana,Lazio,1,0,1,1,0,1,1,0,1,0,1,0,0,0,0,0,7,0,0,1,1,0,1,3
+M,64,Licenza media,Disoccupato/a,Separato/a,Italiana,Lazio,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+F,68,Laurea specialistica/magistrale,Professionista,Vedovo/a,Italiana,Lazio,1,0,1,0,0,0,1,1,0,1,0,0,0,0,0,0,5,0,0,1,1,0,0,2
+F,62,Diploma,Impiegato/a,Separato/a,Italiana,Lazio,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,1,0,3
+F,38,Laurea di primo livello,Impiegato/a,Coniugato/a,Italiana,Calabria,1,1,1,0,0,0,0,0,1,1,0,1,1,0,0,0,7,0,0,0,0,0,0,0
+F,25,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Toscana,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0
+F,51,Laurea specialistica/magistrale,Disoccupato/a,Coniugato/a,Russa,Calabria,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+M,67,Diploma,Disoccupato/a,Coniugato/a,Italiana,Lazio,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,3,0,0,0,0,0,0,0
+F,41,Laurea specialistica/magistrale,Impiegato/a,Separato/a,Italiana,Toscana,1,1,1,1,1,0,0,0,1,0,0,1,0,0,0,0,7,0,0,0,0,0,0,0
+F,70,Laurea specialistica/magistrale,Disoccupato/a,Coniugato/a,Italiana,Abruzzo,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,1,1,1,1,1,1,1,1,0,0,0,0,11,0,1,1,1,1,1,5
+M,75,Laurea specialistica/magistrale,Professionista,Coniugato/a,Italiana,Lazio,1,1,1,0,0,1,1,0,1,0,1,0,1,1,1,1,11,0,1,1,1,1,1,5
+F,44,Diploma,Impiegato/a,Convivente,Italiana,Lazio,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,3
+M,50,Diploma,Impiegato/a,Convivente,Italiana,Lazio,1,0,1,0,0,0,1,0,1,0,1,0,0,0,1,0,6,0,1,1,1,1,0,4
+F,66,Diploma,Impiegato/a,Coniugato/a,Italiana,Lazio,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+M,26,Laurea specialistica/magistrale,Impiegato/a,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,0,0,0,0,1,0,1,0,0,9,0,1,1,1,1,1,5
+F,22,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,0,4,0,1,0,1,1,0,3
+F,29,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,0,1,0,1,0,0,0,0,1,0,1,1,0,0,0,0,5,1,0,1,1,0,0,3
+F,26,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0
+F,23,Laurea di primo livello,Studente,Convivente,Italiana,Calabria,1,1,0,1,1,1,1,1,1,0,1,1,0,0,1,1,12,1,1,0,1,1,1,5
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,0,0,0,0,0,0,1,1,0,1,0,0,1,6,0,0,0,0,0,0,0
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,1,1,1,1,0,0,0,0,0,0,1,0,0,6,0,0,0,1,0,0,1
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,0,0,1,1,0,0,0,0,0,9,0,0,0,1,0,0,1
+M,25,Diploma,Disoccupato/a,Celibe/nubile,Italiana,Calabria,1,0,1,1,1,0,1,1,0,1,0,1,0,0,0,0,8,0,0,0,0,0,1,1
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,1,1,1,1,0,1,1,1,0,1,0,1,1,10,0,0,1,1,0,1,3
+F,69,Diploma,Disoccupato/a,Coniugato/a,Italiana,Lazio,1,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,7,0,0,1,1,0,1,3
+F,49,Diploma,Disoccupato/a,Coniugato/a,Italiana,Calabria,0,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,5,0,0,0,1,0,0,1
+F,23,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,10,1,1,1,1,0,1,5
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,0,1,1,1,1,1,0,1,1,1,1,0,0,0,0,10,1,0,1,1,0,1,4
+M,67,Diploma,Professionista,Coniugato/a,Italiana,Lazio,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,9,0,0,0,1,0,1,2
+F,65,Diploma,Impiegato/a,Coniugato/a,Italiana,Lazio,1,1,1,1,1,1,1,0,0,1,1,0,0,0,0,0,9,0,0,0,1,0,0,1
+F,60,Diploma,Impiegato/a,Celibe/nubile,Italiana,Lazio,1,1,1,1,1,0,1,0,1,1,1,0,1,0,1,0,11,0,1,1,1,1,1,5
+F,59,Diploma,Impiegato/a,Celibe/nubile,Italiana,Lazio,0,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,12,0,0,1,1,0,0,2
+F,62,Diploma,Impiegato/a,Convivente,Italiana,Lazio,0,1,1,1,1,0,1,0,1,0,1,0,0,1,0,0,8,0,0,0,1,0,0,1
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Marche,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,14,1,0,1,1,0,1,4
+F,22,Diploma,Studente,Celibe/nubile,Italiana,Veneto,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,13,0,1,0,1,0,1,3
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,11,0,0,0,1,0,1,2
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,0,1,0,1,0,1,1,1,0,0,0,1,0,9,0,1,0,1,0,0,2
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,0,12,1,0,1,1,1,1,5
+F,22,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,10,1,1,1,1,0,1,5
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Liguria,1,1,0,0,0,1,1,0,1,1,1,0,0,0,0,0,7,0,1,0,1,0,0,2
+F,28,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,11,1,0,1,0,0,0,2
+F,22,Diploma,Studente,Celibe/nubile,Italiana,Emilia-Romagna,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,12,0,1,1,1,0,0,3
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,0,0,0,0,0,1,1,1,0,0,0,8,0,0,0,1,0,0,1
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,1,13,1,0,0,1,1,0,3
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,0,1,1,1,1,1,1,1,1,1,0,0,0,12,1,1,0,1,0,1,4
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,15,1,1,1,1,1,1,6
+F,24,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,0,0,1,1,0,1,1,1,1,0,1,1,0,11,0,1,0,1,0,1,3
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Lombardia,1,1,1,0,1,1,1,0,0,0,1,1,1,0,1,0,10,1,1,1,1,0,1,5
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,13,0,1,1,1,0,0,3
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,0,1,0,0,1,1,1,0,0,0,0,9,0,0,1,1,1,1,4
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,0,1,1,1,1,1,1,1,1,1,0,0,1,0,12,1,1,1,1,0,1,5
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,0,0,1,0,1,0,1,0,0,10,0,0,0,1,1,0,2
+F,39,Laurea specialistica/magistrale,Professionista,Separato/a,Italiana,Veneto,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,7,1,1,1,1,1,1,6
+F,23,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,1,12,0,1,1,1,0,1,4
+F,22,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,8,0,1,1,1,0,0,3
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,0,0,1,1,1,1,1,1,0,0,1,0,0,10,0,1,1,1,1,1,5
+F,22,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,0,1,0,1,1,1,0,1,0,0,0,10,0,0,0,1,1,0,2
+F,23,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,12,0,0,1,1,0,0,2
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Trentino-Alto Adige,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,13,1,0,1,1,1,1,5
+F,24,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,3,0,0,0,0,0,1,1
+M,24,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Liguria,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0,10,0,0,0,1,0,1,2
+M,27,Laurea specialistica/magistrale,Disoccupato/a,Celibe/nubile,Italiana,Lombardia,0,1,1,1,1,0,1,0,0,1,0,0,1,1,0,0,8,0,1,0,1,0,1,3
+F,26,Laurea specialistica/magistrale,Disoccupato/a,Celibe/nubile,Italiana,Emilia-Romagna,1,1,1,0,1,1,1,0,0,1,1,0,0,0,0,0,8,1,0,1,1,0,0,3
+M,26,Diploma,Impiegato/a,Celibe/nubile,Italiana,Lazio,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,1,6
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Sicilia,1,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,7,0,1,0,1,0,1,3
+M,24,Diploma,Studente,Celibe/nubile,Italiana,Lombardia,1,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,13,1,1,1,1,0,0,4
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Lazio,1,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,9,1,1,1,1,1,0,5
+M,26,Laurea di primo livello,Studente,Coniugato/a,Italiana,Lombardia,0,1,1,1,1,1,1,0,0,1,1,1,0,0,1,0,10,1,0,0,1,0,0,2
+M,22,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,1,0,1,1,1,0,1,0,1,0,1,0,0,8,0,0,0,1,0,1,2
+M,19,Diploma,Studente,Coniugato/a,Italiana,Calabria,0,1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,7,0,1,0,0,0,1,2
+M,24,Laurea specialistica/magistrale,Studente,Celibe/nubile,Italiana,Calabria,1,1,0,1,1,1,1,1,1,0,1,0,0,0,0,0,9,1,1,1,1,0,0,4
+M,28,Diploma,Disoccupato/a,Coniugato/a,Italiana,Lazio,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0,9,0,1,1,1,1,0,4
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,1,0,1,0,0,1,1,1,1,0,0,0,0,8,0,0,0,1,0,0,1
+F,58,Diploma,Disoccupato/a,Coniugato/a,Italiana,Calabria,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,0,1,2
+M,62,Laurea specialistica/magistrale,Professionista,Coniugato/a,Italiana,Calabria,1,1,1,1,1,0,1,0,1,0,0,1,0,0,0,0,8,0,0,0,1,0,0,1
+M,25,Laurea specialistica/magistrale,Impiegato/a,Celibe/nubile,Italiana,Emilia-Romagna,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,0,12,1,1,1,1,1,0,5
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,15,0,1,1,1,1,0,4
+M,24,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Sardegna,0,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,11,1,0,1,1,0,1,4
+M,24,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Lombardia,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,5,1,1,1,1,0,0,4
+F,24,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Liguria,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,14,1,1,0,1,1,1,5
+M,24,Laurea specialistica/magistrale,Professionista,Celibe/nubile,Italiana,Liguria,1,1,1,1,1,0,1,1,1,1,0,1,0,0,1,0,11,1,1,1,1,1,1,6
+M,29,Laurea specialistica/magistrale,Professionista,Celibe/nubile,Italiana,Liguria,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,12,1,1,1,1,1,1,6
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Liguria,1,1,1,1,1,0,1,1,0,0,1,0,1,1,1,1,12,0,1,1,1,1,1,5
+M,27,Diploma,Studente,Celibe/nubile,Italiana,Liguria,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,1,14,1,1,1,1,1,1,6
+F,26,Laurea specialistica/magistrale,Studente,Celibe/nubile,Italiana,Emilia-Romagna,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,5,1,1,1,1,1,1,6
+M,28,Laurea specialistica/magistrale,Impiegato/a,Celibe/nubile,Italiana,Lombardia,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,14,1,1,1,1,1,1,6
+M,22,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Emilia-Romagna,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,15,1,1,1,1,1,1,6
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,1,1,0,1,0,0,0,1,1,1,0,0,0,0,0,6,1,1,1,1,0,0,4
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Lombardia,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,12,1,1,1,1,0,0,4
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Emilia-Romagna,1,1,1,1,0,0,0,1,0,0,1,1,0,1,0,0,8,1,0,1,1,1,1,5
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,11,0,0,1,0,1,1,3
+F,22,Diploma,Studente,Convivente,Italiana,Emilia-Romagna,1,1,1,1,1,1,1,1,0,1,1,0,0,0,1,1,12,1,1,0,1,0,1,4
+F,25,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Calabria,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,1,0,0,1
+M,30,Dottorato/Specializzazioni post laurea,Professionista,Celibe/nubile,Italiana,Sicilia,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,11,1,0,1,1,1,1,5
+F,28,Laurea specialistica/magistrale,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,1,1,1,1,1,0,0,1,0,0,0,0,0,7,0,1,1,1,1,1,5
+M,24,Laurea specialistica/magistrale,Studente,Celibe/nubile,Italiana,Liguria,1,1,1,1,1,0,0,0,1,1,1,1,0,1,1,0,11,1,0,1,1,1,1,5
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Emilia-Romagna,0,1,0,1,0,1,1,0,0,0,0,0,0,1,0,1,6,0,0,0,1,0,0,1
+M,25,Diploma,Impiegato/a,Celibe/nubile,Italiana,Emilia-Romagna,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,5,0,1,0,1,0,1,3
+M,24,Diploma,Impiegato/a,Celibe/nubile,Italiana,Emilia-Romagna,1,1,1,1,0,0,1,1,0,1,1,1,0,0,1,0,10,1,1,1,1,1,1,6
+M,25,Laurea di primo livello,Impiegato/a,Celibe/nubile,Italiana,Emilia-Romagna,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,15,1,1,1,1,1,0,5
+F,53,Diploma,Disoccupato/a,Coniugato/a,Italiana,Emilia-Romagna,1,1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,4,0,0,0,1,1,0,2
+F,24,Laurea specialistica/magistrale,Impiegato/a,Celibe/nubile,Italiana,Lazio,0,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,7,0,1,0,1,0,0,2
+F,46,Dottorato/Specializzazioni post laurea,Professionista,Coniugato/a,Italiana,Calabria,1,1,1,1,1,0,0,1,1,0,1,0,0,0,0,0,8,0,1,0,1,0,1,3
+F,51,Dottorato/Specializzazioni post laurea,Professionista,Celibe/nubile,Italiana,Lazio,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,5,0,1,0,1,0,0,2
+F,27,Laurea specialistica/magistrale,Studente,Celibe/nubile,Italiana,Sicilia,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,1,1,0,4
+M,51,Diploma,Impiegato/a,Coniugato/a,Italiana,Calabria,1,0,1,1,1,1,1,1,0,1,1,0,0,0,0,0,9,0,1,1,1,1,1,5
+M,30,Laurea specialistica/magistrale,Impiegato/a,Convivente,Italiana,Emilia-Romagna,1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,0,13,1,1,1,0,0,1,4
+M,40,Dottorato/Specializzazioni post laurea,Impiegato/a,Coniugato/a,Italiana,Calabria,1,1,1,1,1,1,1,0,1,0,0,0,0,1,0,0,9,0,0,0,1,0,1,2
+M,41,Laurea di primo livello,Impiegato/a,Coniugato/a,Italiana,Lazio,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,15,1,1,1,1,1,1,6
+M,40,Laurea specialistica/magistrale,Impiegato/a,Coniugato/a,Italiana,Lazio,1,1,1,1,0,1,0,0,1,1,1,1,0,0,0,0,9,1,1,1,1,0,1,5
+F,42,Dottorato/Specializzazioni post laurea,Professionista,Convivente,Italiana,Lazio,0,1,1,1,1,1,1,0,1,1,1,0,0,1,1,1,12,0,0,1,1,1,1,4
+M,22,Laurea di primo livello,Studente,Convivente,Italiana,Emilia-Romagna,1,1,1,1,1,0,0,1,0,0,1,0,0,0,1,1,9,1,1,1,1,0,1,5
+F,24,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,11,1,1,0,1,0,0,3
+M,24,Diploma,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,0,0,1,1,1,1,0,1,0,0,1,11,1,1,1,1,1,0,5
+M,22,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Marche,1,1,1,1,1,0,1,1,0,0,1,0,1,1,0,1,11,1,1,1,1,0,0,4
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,7,0,0,1,1,0,0,2
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,5,1,1,0,1,0,1,4
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,10,1,1,1,1,0,1,5
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Lombardia,0,1,0,1,0,1,1,0,0,1,0,0,0,0,0,0,5,0,1,1,1,0,1,4
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,0,1,0,1,1,0,0,0,0,1,0,9,0,1,1,1,1,0,4
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,0,1,1,1,0,0,1,0,1,12,0,0,0,0,0,1,1
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,0,0,1,1,0,0,0,0,0,9,1,0,0,1,1,0,3
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,15,1,0,1,1,0,1,4
+M,22,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,13,0,1,1,1,1,1,5
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Emilia-Romagna,1,1,1,1,0,0,1,1,1,1,1,0,0,0,0,0,9,1,1,1,1,1,1,6
+M,23,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,0,12,1,1,1,1,1,0,5
+M,21,Diploma,Studente,Convivente,Italiana,Veneto,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,1,6
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,0,12,1,1,1,1,1,1,6
+M,30,Diploma,Impiegato/a,Celibe/nubile,Italiana,Toscana,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,13,0,1,1,1,0,1,4
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,0,0,1,1,0,0,0,1,1,11,0,0,1,1,1,0,3
+F,29,Laurea di primo livello,Studente,Convivente,Italiana,Emilia-Romagna,1,1,1,1,1,0,0,0,1,1,1,0,1,1,1,1,12,0,1,1,1,0,0,3
+F,23,Diploma,Studente,Celibe/nubile,Italiana,Toscana,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,10,1,1,1,1,0,1,5
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,0,0,0,0,0,0,1,0,1,1,0,0,7,1,1,1,1,0,1,5
+M,18,Licenza media,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,12,1,1,1,1,1,1,6
+F,18,Licenza media,Studente,Celibe/nubile,Italiana,Calabria,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,13,1,0,1,1,1,1,5
+Intersex,67,Dottorato/Specializzazioni post laurea,Impiegato/a,Vedovo/a,Congo,Calabria,1,1,1,0,0,0,0,0,1,1,0,1,0,0,0,0,6,0,1,0,1,0,0,2
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Lombardia,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,1,12,1,1,1,1,0,1,5
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,1
+M,23,Diploma,Studente,Celibe/nubile,Italiana,Calabria,0,0,0,0,1,0,1,1,0,0,0,0,1,0,1,0,5,1,0,0,1,0,0,2
+M,22,Laurea di primo livello,Professionista,Celibe/nubile,Italiana,Calabria,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,3,0,1,1,0,0,0,2
+F,25,Laurea di primo livello,Professionista,Celibe/nubile,Italiana,Calabria,1,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,5,1,0,1,1,0,0,3
+F,24,Laurea di primo livello,Impiegato/a,Celibe/nubile,Italiana,Calabria,1,0,1,0,1,0,0,0,0,1,0,1,0,0,0,0,5,1,0,1,1,0,0,3
+M,27,Laurea di primo livello,Professionista,Convivente,Italiana,Calabria,1,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,7,0,1,1,1,0,0,3
+M,23,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,16,1,1,1,1,1,1,6
+M,24,Laurea specialistica/magistrale,Disoccupato/a,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,0,0,1,1,1,1,0,0,0,0,0,9,1,1,1,1,1,1,6
+M,22,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Lombardia,1,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,8,1,0,1,1,0,1,4
+F,25,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,1,1,1,1,1,6
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Trentino-Alto Adige,1,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,8,1,1,1,1,0,1,5
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Lombardia,1,1,1,1,1,0,0,0,0,1,0,0,0,1,0,0,7,1,1,1,1,1,1,6
+M,21,Diploma,Operaio,Celibe/nubile,Italiana,Lombardia,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,10,1,1,1,1,1,0,5
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Umbria,1,1,1,1,0,1,1,0,0,0,1,1,0,0,0,0,8,1,1,1,1,1,1,6
+M,18,Diploma,Studente,Convivente,San Marino,Emilia-Romagna,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,13,1,1,1,1,1,1,6
+F,24,Laurea di primo livello,Studente,Coniugato/a,Italiana,Piemonte,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,12,1,1,1,1,0,1,5
+F,24,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,14,0,1,1,1,0,0,3
+F,23,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,15,1,1,1,1,1,1,6
+F,28,Dottorato/Specializzazioni post laurea,Impiegato/a,Celibe/nubile,Italiana,Piemonte,1,1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,11,1,1,1,1,1,1,6
+F,28,Laurea specialistica/magistrale,Impiegato/a,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,14,1,1,1,1,0,1,5
+M,21,Diploma,Impiegato/a,Celibe/nubile,Italiana,Umbria,1,1,1,1,0,0,0,1,1,1,1,0,0,0,0,0,8,1,1,1,1,1,1,6
+M,24,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Lombardia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,15,1,1,1,1,0,1,5
+M,23,Diploma,Studente,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,1,12,0,1,1,1,0,1,4
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,0,13,1,1,1,1,1,1,6
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,0,0,0,1,1,1,0,0,0,1,0,9,1,0,0,1,0,1,3
+M,23,Laurea specialistica/magistrale,Studente,Celibe/nubile,Italiana,Emilia-Romagna,1,1,1,1,1,0,1,0,0,1,1,1,0,1,1,0,11,1,1,1,1,0,1,5
+M,23,Diploma,Professionista,Celibe/nubile,Italiana,Emilia-Romagna,1,1,1,1,1,0,0,1,0,0,0,1,1,0,0,0,8,1,1,1,1,0,1,5
+M,23,Diploma,Operaio,Celibe/nubile,Italiana,Emilia-Romagna,1,1,1,1,1,1,1,0,0,1,1,0,0,0,0,0,9,0,1,1,1,1,1,5
+M,25,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,13,1,1,1,1,0,1,5
+M,22,Diploma,Studente,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,11,1,1,1,1,1,1,6
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Lombardia,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,15,1,1,1,1,1,1,6
+M,23,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Sardegna,1,1,1,1,1,0,1,1,1,1,0,0,0,0,0,0,9,1,1,1,1,1,1,6
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Piemonte,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,6,1,1,1,1,0,1,5
+F,24,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,0,14,1,1,0,1,1,1,5
+M,25,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,7,1,0,1,1,0,1,4
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,1,1,0,1,0,0,1,0,0,0,0,9,1,1,1,1,1,1,6
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Piemonte,0,0,0,1,1,1,1,1,1,0,0,0,1,1,0,1,9,1,1,1,1,0,1,5
+M,23,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Emilia-Romagna,1,1,1,1,0,1,0,0,1,1,1,1,0,1,1,0,11,1,1,1,1,1,1,6
+F,26,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Emilia-Romagna,0,1,1,1,1,1,1,0,1,1,1,0,0,1,1,0,11,1,1,1,1,1,1,6
+F,28,Dottorato/Specializzazioni post laurea,Impiegato/a,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,1,1,0,0,1,1,1,1,1,0,0,12,1,1,0,1,0,1,4
+M,24,Laurea di primo livello,Studente,Celibe/nubile,Venezuelano,Veneto,1,0,0,1,1,0,0,0,1,1,1,0,0,1,1,1,9,1,0,0,0,0,0,1
+M,22,Diploma,Studente,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,0,12,0,0,1,1,0,1,3
+M,24,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,0,1,0,1,0,1,0,0,0,1,0,9,1,1,1,1,1,1,6
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,0,0,0,0,1,0,1,1,0,0,0,0,7,1,1,1,1,1,1,6
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,11,1,1,1,1,1,1,6
+M,23,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Lombardia,1,1,1,1,1,1,1,0,0,0,0,1,0,1,0,0,9,1,1,1,1,1,1,6
+F,23,Diploma,Studente,Convivente,Italiana,Lombardia,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,15,1,0,1,1,1,1,5
+M,22,Diploma,Studente,Celibe/nubile,Italiana,Lombardia,1,1,1,1,0,0,0,0,1,1,1,0,0,1,1,0,9,1,1,1,1,0,1,5
+M,32,Laurea di primo livello,Impiegato/a,Celibe/nubile,Italiana,Lazio,1,1,1,1,1,1,0,0,1,1,0,0,0,0,0,0,8,1,1,1,1,0,1,5
+M,32,Dottorato/Specializzazioni post laurea,Impiegato/a,Celibe/nubile,Italiana,Sardegna,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,11,1,1,1,1,1,1,6
+M,28,Laurea specialistica/magistrale,Impiegato/a,Celibe/nubile,Italiana,Lombardia,1,1,1,1,0,1,1,0,1,1,1,0,0,0,1,1,11,1,1,1,1,1,1,6
+F,29,Laurea specialistica/magistrale,Impiegato/a,Celibe/nubile,Italiana,Sicilia,1,1,1,1,1,0,1,1,1,0,1,0,0,0,0,0,9,1,1,1,1,1,0,5
+M,49,Diploma,Professionista,Convivente,Italiana,Lombardia,0,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,4,0,1,0,0,0,0,1
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Lombardia,1,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,7,0,0,1,0,0,0,1
+F,25,Laurea specialistica/magistrale,Professionista,Celibe/nubile,Italiana,Lombardia,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,12,1,1,1,1,1,1,6
+M,28,Diploma,Disoccupato/a,Celibe/nubile,Italiana,Sicilia,1,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,7,1,1,0,1,0,0,3
+M,26,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Lombardia,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,15,1,1,1,1,1,1,6
+M,25,Laurea di primo livello,Impiegato/a,Celibe/nubile,Italiana,Lazio,1,1,1,0,1,1,1,0,0,1,1,0,1,1,0,1,11,0,1,0,0,0,0,1
+M,25,Dottorato/Specializzazioni post laurea,Impiegato/a,Celibe/nubile,Italiana,Sardegna,1,1,1,1,1,1,1,1,0,0,0,1,0,0,1,0,10,1,1,1,1,0,1,5
+F,25,Laurea specialistica/magistrale,Studente,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1,0,12,1,1,0,1,0,1,4
+F,48,Diploma,Disoccupato/a,Coniugato/a,Italiana,Calabria,1,1,0,1,0,1,1,1,1,0,0,0,1,0,1,0,9,1,1,1,1,0,1,5
+M,31,Laurea specialistica/magistrale,Impiegato/a,Convivente,Italiana,Emilia-Romagna,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,14,1,1,1,1,1,1,6
+F,24,Laurea specialistica/magistrale,Professionista,Celibe/nubile,Italiana,Piemonte,1,1,1,1,0,1,0,0,1,1,1,1,1,0,1,0,11,1,1,0,1,1,1,5
+F,25,Diploma,Studente,Celibe/nubile,Italiana,Piemonte,1,1,1,1,1,1,1,0,1,1,0,0,1,0,0,0,10,1,1,1,1,1,1,6
+M,58,Diploma,Impiegato/a,Coniugato/a,Italiana,Lombardia,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,0,10,0,0,1,1,1,1,4
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Liguria,1,1,1,1,0,1,1,0,1,1,1,0,0,0,1,0,10,0,1,1,1,0,0,3
+F,44,Dottorato/Specializzazioni post laurea,Impiegato/a,Celibe/nubile,Italiana,Lazio,1,1,1,1,1,1,1,0,0,0,1,1,0,0,0,0,9,1,0,1,1,1,1,5
+M,36,Dottorato/Specializzazioni post laurea,Professionista,Celibe/nubile,Italiana,Veneto,1,1,0,1,0,1,1,0,0,1,0,0,1,0,0,0,7,1,0,1,1,1,0,4
+M,40,Dottorato/Specializzazioni post laurea,Professionista,Coniugato/a,Italiana,Veneto,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,11,1,1,0,1,0,0,3
+M,23,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,0,1,0,0,1,0,1,1,1,0,0,0,0,0,7,1,1,1,1,0,1,5
+F,65,Diploma,Professionista,Vedovo/a,Italiana,Emilia-Romagna,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,3,0,0,0,0,0,0,0
+M,24,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,13,0,1,1,1,1,1,5
+M,23,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,0,0,0,0,0,1,1,1,1,0,1,1,0,9,1,1,1,1,0,1,5
+M,22,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,14,0,1,1,1,1,1,5
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,0,1,0,1,0,1,0,0,0,1,0,9,0,1,1,1,1,0,4
+F,22,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,0,0,1,1,1,0,1,0,0,0,0,0,8,1,1,1,1,1,0,5
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,12,0,0,1,1,1,0,3
+M,23,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,0,1,0,0,0,1,1,1,1,1,1,12,1,0,1,1,1,1,5
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,1,1,0,1,0,1,0,0,1,1,0,11,1,1,0,1,0,1,4
+M,23,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,0,0,0,0,1,1,1,0,1,0,1,1,10,1,1,1,1,1,1,6
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,0,1,1,1,0,1,0,0,1,0,1,1,0,0,0,0,7,1,1,1,1,1,1,6
+M,46,Laurea di primo livello,Professionista,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,13,1,1,1,1,1,1,6
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,10,0,0,0,0,0,0,0
+F,23,Laurea di primo livello,Studente,Convivente,Italiana,Friuli-Venezia Giulia,0,1,0,1,1,0,0,0,1,0,1,1,0,0,0,0,6,1,1,1,1,0,0,4
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,0,0,0,0,1,1,0,1,0,1,0,0,8,0,1,0,1,1,1,4
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,0,1,0,1,1,1,1,0,0,1,0,11,0,0,0,1,0,0,1
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,0,1,0,1,0,1,0,1,1,1,1,0,0,0,0,8,0,0,1,1,0,1,3
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,0,1,0,1,1,0,1,0,0,1,0,0,0,0,0,0,5,0,0,0,1,1,0,2
+F,22,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,1,1,1,0,0,1,0,0,0,0,0,9,1,1,1,1,0,1,5
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Lombardia,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,0,12,0,1,1,1,0,0,3
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,10,1,1,1,1,0,1,5
+M,23,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,0,1,0,0,1,1,1,1,0,1,1,12,1,1,1,1,0,1,5
+M,19,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,13,1,1,1,1,1,1,6
+M,21,Diploma,Studente,Celibe/nubile,Italiana,Emilia-Romagna,1,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,5,0,0,0,1,0,0,1
+F,23,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,0,1,1,1,0,1,0,0,0,0,0,9,0,1,1,1,0,0,3
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,10,1,1,0,1,0,0,3
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,0,1,1,0,1,0,1,1,1,0,1,0,1,0,10,1,0,1,1,1,1,5
+F,24,Laurea di primo livello,Studente,Coniugato/a,Italiana,Veneto,1,1,1,1,0,1,1,1,0,1,1,1,0,1,0,0,11,0,1,1,1,1,1,5
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,0,1,1,1,1,1,1,1,1,1,0,1,0,0,12,0,1,0,1,1,0,3
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,14,1,1,1,1,1,1,6
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,0,1,0,1,0,0,1,0,0,0,0,1,0,7,0,0,1,1,1,0,3
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,0,0,1,0,1,0,1,0,0,0,0,0,7,0,1,0,0,0,1,2
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1,0,0,1
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Veneto,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,13,0,0,1,1,0,1,3
+M,23,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Veneto,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,14,1,1,1,1,1,1,6
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,0,0,0,1,0,1,1,1,0,0,1,0,9,0,1,1,1,0,0,3
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,0,1,1,1,0,1,1,0,1,0,1,1,0,1,11,0,1,1,1,1,0,4
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,5,1,1,0,1,0,0,3
+F,19,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,0,1,1,1,1,1,1,1,0,1,0,0,12,0,1,0,1,0,1,3
+F,23,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,9,1,1,1,1,0,0,4
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,0,1,1,1,1,1,1,1,0,0,1,1,0,0,1,1,11,1,1,1,1,1,1,6
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Veneto,0,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0,8,0,0,0,0,0,0,0
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,14,1,1,1,1,1,1,6
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,0,1,1,1,1,1,0,1,0,1,0,0,1,1,1,11,0,0,0,1,0,0,1
+F,21,Diploma,Studente,Convivente,Italiana,Friuli-Venezia Giulia,1,1,1,1,0,0,0,0,1,1,1,0,0,1,1,0,9,0,0,0,1,0,0,1
+F,25,Diploma,Studente,Celibe/nubile,Italiana,Trentino-Alto Adige,1,1,1,0,1,1,1,0,0,1,1,1,0,0,0,1,10,0,1,1,1,0,1,4
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,1,1,1,0,1,0,1,0,0,0,0,0,9,0,0,1,1,0,0,2
+F,22,Diploma,Studente,Celibe/nubile,Italiana,Veneto,1,1,1,1,0,1,1,0,1,1,0,0,0,0,0,0,8,1,1,1,1,0,1,5
+F,27,Diploma,Studente,Convivente,Italiana,Friuli-Venezia Giulia,0,1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,6,0,0,0,1,0,0,1
+F,23,Laurea di primo livello,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,0,1,1,1,0,0,0,0,1,1,0,0,0,1,0,7,0,1,1,1,0,1,4
+F,20,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,0,1,0,0,0,1,0,1,1,1,1,0,1,0,0,8,0,0,0,1,1,1,3
+M,20,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,0,0,0,0,1,1,1,1,0,1,1,1,11,1,1,1,1,0,1,5
+F,21,Diploma,Studente,Celibe/nubile,Italiana,Friuli-Venezia Giulia,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,0,12,1,0,1,1,0,1,4
