@@ -1,6 +1,6 @@
 # Italian Adaptation and Validation of the ICAR-16 Sample Test
 
-[Status: Preprint](.....................)
+> [Status: Preprint](https://osf.io/preprints/psyarxiv/qruy7_v2)
 
 **Authors:** Eva Tolomeo¹⁺, Leognano Ceraudo¹⁺, Marco Balducci²*, and Marco Tullio Liuzza³
 
@@ -20,7 +20,7 @@ Because this work is currently under review / in preparation, please cite this r
 
 
 ### APA 7th
-> Tolomeo, E.*, Ceraudo, L.*, Balducci, M., & Liuzza, M. T. (2026). *Data, items, and analysis scripts for the Italian Adaptation and Validation of the ICAR-16 Sample Test* https://doi.org/10.31234/osf.io/qruy7_v2
+> Tolomeo, E.*, Ceraudo, L.*, Balducci, M., & Liuzza, M. T. (2026). *Data, items, and analysis scripts for the Italian Adaptation and Validation of the ICAR-16 Sample Test.* https://doi.org/10.31234/osf.io/qruy7_v2
 
 > _(*Shared first authorship)_
 
