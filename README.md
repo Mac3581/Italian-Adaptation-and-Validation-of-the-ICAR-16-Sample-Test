@@ -27,10 +27,10 @@ Because this work is currently under review / in preparation, please cite this r
 ### BibTeX
 ```bibtex
 @misc{Tolomeo_Italian_ICAR16_2026,
-  author       = {Tolomeo, Eva and Ceraudo, Leognano and Balducci, Marco and Liuzza, Marco Tullio},
-  title        = {Data, items, and analysis scripts for the Italian Adaptation and Validation of the ICAR-16 Sample Test},
-  year         = {2026},
-  publisher    = {GitHub},
-  journal      = {GitHub repository},
-  howpublished = {\url{[https://github.com/Mac3581/Italian-Adaptation-and-Validation-of-the-ICAR-16-Sample-Test](https://github.com/Mac3581/Italian-Adaptation-and-Validation-of-the-ICAR-16-Sample-Test)}}
+  author    = {Tolomeo, Eva and Ceraudo, Leognano and Balducci, Marco and Liuzza, Marco Tullio},
+  title     = {Data, items, and analysis scripts for the Italian Adaptation and Validation of the ICAR-16 Sample Test},
+  year      = {2026},
+  publisher = {OSF Preprints},
+  doi       = {10.31234/osf.io/qruy7_v2},
+  url       = {https://doi.org/10.31234/osf.io/qruy7_v2}
 }
