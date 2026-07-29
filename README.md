@@ -16,7 +16,7 @@
 
 ## 📜 How to Cite
 
-Because this work is currently under review / in preparation, please cite this repository and dataset as follows:
+Because this work is currently under review, please cite this repository and dataset as follows:
 
 
 ### APA 7th
