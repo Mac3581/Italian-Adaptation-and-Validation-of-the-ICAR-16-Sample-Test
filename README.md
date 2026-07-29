@@ -10,7 +10,7 @@
 
 *⁺ These authors contributed equally to the work (shared first authorship).*  
 
-*\* Corresponding author: Marco Balducci*
+*\* Corresponding author: Marco Balducci (marco.m.balducci@utu.fi)*
 
 ---
 
