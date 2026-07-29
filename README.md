@@ -18,8 +18,10 @@
 
 Because this work is currently under review / in preparation, please cite this repository and dataset as follows:
 
+
 ### APA 7th
-> Tolomeo, E.*, Ceraudo, L.*, Balducci, M., & Liuzza, M. T. (2026). *Data, items, and analysis scripts for the Italian Adaptation and Validation of the ICAR-16 Sample Test* [Data and code repository]. GitHub. https://github.com/Mac3581/Italian-Adaptation-and-Validation-of-the-ICAR-16-Sample-Test  
+> Tolomeo, E.*, Ceraudo, L.*, Balducci, M., & Liuzza, M. T. (2026). *Data, items, and analysis scripts for the Italian Adaptation and Validation of the ICAR-16 Sample Test* https://doi.org/10.31234/osf.io/qruy7_v2
+
 > _(*Shared first authorship)_
 
 ### BibTeX
